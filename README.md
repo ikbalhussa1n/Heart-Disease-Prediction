@@ -10,12 +10,6 @@
 This project predicts the likelihood of heart disease using a Machine Learning model (K-Nearest Neighbors).  
 It is deployed using a Streamlit web application for easy and interactive predictions.
 
----
-
-## 🚀 Live Demo
-(Add your Streamlit link here)
-
----
 
 ## 📊 Dataset Features
 
